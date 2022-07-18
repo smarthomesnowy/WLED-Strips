@@ -1,2 +1,2 @@
 # WLED-Strips
-My WLED peoject
+My WLED project
